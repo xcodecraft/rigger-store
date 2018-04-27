@@ -11,3 +11,11 @@ cargo run
 ```
 
 http://localhost:8000
+
+
+使用RUST nightly 进行开发编译：
+
+```
+rustup default nightly
+rustup update 
+```
